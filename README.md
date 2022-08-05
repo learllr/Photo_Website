@@ -1,16 +1,16 @@
-# Site web 
+# Website
 
-Notre projet porte sur un site web relié à une base de données. Il a été réalisé dans le cadre de l'unité d'enseignement Base de données et programmation web de 2021-2022.
+The project involves a website linked to a database that can display/delete photos. It was produced as part of the 2021-2022 Database and Web Programming teaching unit.
 
 
-## Organisation de l'archive
+Organization of the archive
 
-**images/ :** Contient les images qui sont dans la base de données.
+**images/ :** Contains images that are in the database.
 
-**bootstrap/ :** Répertoire du framework Bootstrap.
+**bootstrap/ :** Bootstrap framework directory.
 
  
 
-## Créateurs
+## Creator
 
 ROULLIER LEA (p1911736)
